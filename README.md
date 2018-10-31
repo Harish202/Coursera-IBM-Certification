@@ -16,7 +16,7 @@ Our base idea is to leverage machine learning and find cities which have life st
 # Results:
 After performing Kmeans clustering with 2 clusters, its Canberra Australia that made to one cluster and rest of 11 cities including Mumbai were part of second cluster. 
 
-![alt text](https://github.com/Harish202/Coursera-IBM-Certification/issues/2#issue-375835822)
+![alt text](https://user-images.githubusercontent.com/35429225/47772970-765eb900-dd0e-11e8-9a39-13d058f58f6d.PNG)
 # Discussion:
 So finally its Canberra Australia life style that stood out compared to all other cities including Mumbai. So for our adventurous trip we will be heading to Canberra Australia.
 
